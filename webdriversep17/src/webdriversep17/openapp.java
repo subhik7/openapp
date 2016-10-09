@@ -19,6 +19,7 @@ public class openapp
 	   driver.findElementById("u_0_n").click();
 	   //driver.findElementByLinkText().click();
 	   driver.findElementByClassName("_54nh").click();
+	   driver.manage().window().maximize();
 	 //  driver..getText();
 
    }
